@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.text1,
+.text2,
+.text3,
+input{
+ display: none;
+}
+
+.container{
+	width: 60%;
+	background-color: white;
+	height: 300px;
+	font-family: 'Raleway', sans-serif;
+	margin: 30px auto;
+	padding: 25px;
+
+}
+
+.fas{
+	color: #B8E6E6;
+	font-size: 18px;
+}
+.text1,
+.text2,
+.text3,
+.text4{
+	width: 50%;
+	background-color: #B8E6E6;
+	margin-bottom: 15px;
+}
+
+input{
+	background-color: #C9D12D;
+	width: 50%;
+}
